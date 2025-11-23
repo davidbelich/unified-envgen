@@ -82,7 +82,7 @@ function setApiKey(key){
     #app-settings-modal {
       position: fixed;
 top: 15px;
-  left: 20px;
+right: 60px;
   width: 275px;
       padding: 16px;
       background: #fff;
